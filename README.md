@@ -1,5 +1,3 @@
 ## Hi there 👋
 
-This is Surya Mandava
-
-This space is dedicated to my personal projects designed to be shared with the broader developer community.
+This space is dedicated to my *(Surya Mandava)* original projects, built to be shared with the developer community.
